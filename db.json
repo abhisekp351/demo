@@ -1,5 +1,7 @@
-[
-  {
+
+{
+  [
+   {
   "id": 1,
   "Dessert (100g serving)": "Cupcake",
   "Calories": 305,
@@ -39,4 +41,5 @@
   "Carbs (g)": 67,
   "Protein (g)": 4.3
   }
-]
+ ]
+}
