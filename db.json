@@ -1,7 +1,6 @@
 
 {
-   "nutritionData":
-  [ 
+   "nutritionData": 
    {
   "id": 1,
   "Dessert (100g serving)": "Cupcake",
@@ -42,5 +41,4 @@
   "Carbs (g)": 67,
   "Protein (g)": 4.3
   }
-   ] 
 }
